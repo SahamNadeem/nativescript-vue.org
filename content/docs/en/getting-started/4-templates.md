@@ -40,7 +40,7 @@ Originally built by [Pascal Martineau](https://github.com/lewebsimple/), this te
 $ npm install -g @vue/cli @vue/cli-init
 $ vue init nativescript-vue/vue-cli-template <project-name>
 $ cd <project-name>
-$ npm install
+$ npm install // we dont need this if npm is globally installed 
 $ npm run watch:android
 $ # or
 $ npm run watch:ios
